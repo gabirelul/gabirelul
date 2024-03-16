@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Racebox-Online-Store](https://github.com/gabirelul/Racebox-Online-Store)
 
-- 👨‍💻 All of my projects are available at [https://gabirelul.github.io/Personal-Website/](https://gabirelul.github.io/Personal-Website/)
+- 👨‍💻 My personal website is available at [https://gabirelul.github.io/Personal-Website/](https://gabirelul.github.io/Personal-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
