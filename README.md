@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Chera</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Welcome to my GitHub!</h3>
 
 - 🔭 I’m currently working on [Racebox-Online-Store](https://github.com/gabirelul/Racebox-Online-Store)
