@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
 
-- 🔭 I’m currently working on [Personal-Website]([https://github.com/gabirelul/Racebox-Online-Store](https://github.com/gabirelul/Personal-Website))
+- 🔭 I’m currently working on [Personal-Website](https://github.com/gabirelul/Personal-Website)
 
 - 👨‍💻 My personal website is available at [https://gabirelul.github.io/Personal-Website/](https://gabirelul.github.io/Personal-Website/)
 
