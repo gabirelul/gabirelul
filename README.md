@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal-Website](https://github.com/gabirelul/Personal-Website)
 
-- 👨‍💻 My personal website is available at [https://gabirelul.github.io/Personal-Website/](https://gabirelul.github.io/Personal-Website/)
+- 👨‍💻 My personal website is available at [https://gabirelul.github.io/Personal-Website/](https://alexchera.ro/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
