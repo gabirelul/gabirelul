@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="left">Welcome to my GitHub page!</h3>
+<h3 align="left">Welcome to my GitHub page! 👋</h3>
 <p>My personal website is available at <a href="http://alexchera.ro" target="_blank">alexchera.ro</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
